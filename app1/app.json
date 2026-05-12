@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "23d32dba-bbb7-46ca-a142-6b533d763cc1",
+      "name": "licensing",
+      "publisher": "test-org",
+      "version": "1.0.0.0"      
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
