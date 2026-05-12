@@ -7,6 +7,9 @@
       "path": "app2"
     },
     {
+      "path": "common"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
