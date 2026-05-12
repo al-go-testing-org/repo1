@@ -12,10 +12,10 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "23d32dba-bbb7-46ca-a142-6b533d763cc1",
+      "id": "ff0dd598-9785-4400-b4a1-edc57c1cc46a",
       "name": "licensing",
       "publisher": "test-org",
-      "version": "1.0.0.0"      
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
