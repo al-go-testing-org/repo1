@@ -4,5 +4,7 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
-  "NextMajorSchedule": "0 2 * * 0"
+  "NextMajorSchedule": "0 2 * * 0",
+  "githubRunner": "self-hosted,Windows,X64,al-go",
+  "githubRunnerShell": "powershell"
 }
