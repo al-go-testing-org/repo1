@@ -7,5 +7,6 @@
   "NextMajorSchedule": "0 2 * * 0",
   "githubRunner": "self-hosted,Windows,X64,al-go",
   "githubRunnerShell": "powershell",
-  "cacheImageName": ""
+  "cacheImageName": "",
+  "templateSha": "28c060aecd801a24e69346bea0c3cb193f327183"
 }
