@@ -6,5 +6,5 @@
   "NextMinorSchedule": "0 2 * * 6",
   "NextMajorSchedule": "0 2 * * 0",
   "githubRunner": "self-hosted,Windows,X64,al-go",
-  "githubRunnerShell": "powershell"
+  "githubRunnerShell": "pwsh"
 }
